@@ -1,11 +1,8 @@
 
 body {
 	margin: 0;
-	background: white;
-  margin: 2em;
-	font-family: 'Roboto Mono', monospace !important;
-  /*box-sizing: border-box;*/
-}
+  	font-family: 'Roboto Mono', monospace !important;
+ }
 
 
 h1 {
