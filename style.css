@@ -23,6 +23,7 @@ h1 {
   overflow: hidden;
   background-color: gray;
   position: relative;
+  justify-content: right;
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */
