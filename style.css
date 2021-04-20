@@ -57,6 +57,7 @@ h1 {
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #4CAF50;
+  background-color: blue;
+	background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
   color: white;
 }
