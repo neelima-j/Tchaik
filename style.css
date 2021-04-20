@@ -23,7 +23,6 @@ h1 {
   overflow: hidden;
   background-color: gray;
   position: relative;
-  justify-content: right;
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */
@@ -38,7 +37,6 @@ h1 {
   text-decoration: none;
   font-size: 17px;
   display: block;
-	  justify-content: right;
 
 }
 
