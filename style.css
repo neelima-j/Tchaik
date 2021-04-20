@@ -21,7 +21,7 @@ h1 {
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  /*background-color: #333;*/
+  background-color: gray;
   position: relative;
 }
 
