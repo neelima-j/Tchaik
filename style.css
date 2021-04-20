@@ -57,7 +57,6 @@ h1 {
 
 .flex-container {
   display: flex;
-  flex-direction: column;
   background-color: DodgerBlue;
 }
 
@@ -73,6 +72,6 @@ h1 {
 /* Style the active link (or home/logo) */
 .active {
   background-color: blue;
-	background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
   color: white;
 }
