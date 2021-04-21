@@ -1,8 +1,4 @@
 
-body {
-	margin: 0;
-  	font-family: 'Roboto Mono', monospace !important;
- }
 
 html {
   background: #f5f7f8;
@@ -89,6 +85,12 @@ h1 {
   color: #333;
 }
 
+h2 {
+    font-size: 30px;
+    padding: 5%;
+    text-align: center;
+}
+
 .card span {
   font-size: 12px;
   font-weight: bold;
@@ -98,10 +100,20 @@ h1 {
   margin: 2em 0 0 0;
 }
 
-
-h1 {
-  font-style: italic;
-  color: #373ffg;
+.aboutcard {
+  min-height: 100%;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  color: #444;
+  position: relative;
+  top: 0;
+  padding: 10%;
+  margin: 2.5em   ;
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
 }
 
 
@@ -150,19 +162,6 @@ text-align: right;
   color: black;
 }
 
-.flex-container {
-  display: flex;
-  background-color: DodgerBlue;
-}
-
-.flex-container > div {
-  background-color: #f1f1f1;
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-}
 
 /* Style the active link (or home/logo) */
 .active {
