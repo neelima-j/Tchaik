@@ -165,10 +165,10 @@ text-align: right;
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: blue;
-  background-image: linear-gradient(to right, #cfd9df 0%, #e2ebf0 100%);
+  /*background-color: blue;
+  background-image: linear-gradient(to right, #cfd9df 0%, #e2ebf0 100%);*/
   color: white;
-	text-align: left !important;
+  text-align: left !important;
 
 }
 
