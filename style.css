@@ -171,3 +171,30 @@ text-align: right;
 	text-align: left !important;
 
 }
+
+/*Social Logos*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #333;
+  color: white;
+}
+
+.fa-github {
+  background: #333;
+  color: white;
+}
+
+
